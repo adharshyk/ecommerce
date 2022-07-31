@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid;
+  }
+
+
+  app-prod-list{
+    width: 200px; 
+    margin-left: 900px; 
+    position: absolute
+  } 
